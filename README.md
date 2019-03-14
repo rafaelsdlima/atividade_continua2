@@ -8,6 +8,40 @@
     </body>
             <hr>
         <table border="1">
+                    <tr>
+            <td><b>SEGUNDA-FEIRA</b></td>
+            <td><b>TERÇA-FEIRA</b></td>
+            <td><b>QUARTA-FEIRA</b></td>
+            <td><b>QUINTA-FEIRA</b></td>
+            <td><b>SEXTA-FEIRA</b></td>
+        </tr>
+        <tr>
+            <td><b>Horário :</b> [19h50 às 20h40]<br>
+                <b>Disciplina :</b> Linguagem SQL <br>
+                Professor : Marino Hilário Catarino <br>
+                Sala : A309
+            </td>
+            <td><b>Horário :</b> [19h50 às 20h40]<br>
+                <b>Disciplina :</b> Engenharia de Software <br>
+                Professor : Meire Helen Batista Dias <br>
+                Sala : A107
+            </td>
+            <td><b>Horário :</b> [19h50 às 20h40]<br>
+                <b>Disciplina :</b> Tecnologia Web <br>
+                Professor : Ramon Fortes Pereira <br>
+                Sala : A309
+            </td>
+            <td><b>Horário :</b> [19h50 às 20h40]<br>
+                <b>Disciplina :</b> Linguagem de Programação II <br>
+                Professor : Guilherme Feulo do Espirito Santo <br>
+                Sala : A310
+            </td>
+            <td><b>Horário :</b> [19h às 19h50]<br>
+                <b>Disciplina :</b> Ambiente de Desenvolvimento e Operação <br>
+                Professor : Alex lopes de Oliveira <br>
+                Sala : A309
+            </td>          
+        </tr>
         </table>        
     </body>
 </html>
