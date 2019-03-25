@@ -15,29 +15,29 @@
             <td><b>SEXTA-FEIRA</b></td>
         </tr>
         <tr>
-            <td><b>Horário :</b> [19h50 às 20h40]<br>
+            <td><b>Horário :</b> [19h às 22h40]<br>
                 <b>Disciplina :</b> Linguagem SQL <br>
                 Professor : Marino Hilário Catarino <br>
                 Sala : A309
             </td>
-            <td><b>Horário :</b> [19h50 às 20h40]<br>
+            <td><b>Horário :</b> [19h às 22h40]<br>
                 <b>Disciplina :</b> Engenharia de Software <br>
                 Professor : Meire Helen Batista Dias <br>
                 Sala : A107
             </td>
-            <td><b>Horário :</b> [19h50 às 20h40]<br>
+            <td><b>Horário :</b> [19h às 22h40]<br>
                 <b>Disciplina :</b> Tecnologia Web <br>
                 Professor : Ramon Fortes Pereira <br>
                 Sala : A309
             </td>
-            <td><b>Horário :</b> [19h50 às 20h40]<br>
+            <td><b>Horário :</b> [19h às 22h40]<br>
                 <b>Disciplina :</b> Linguagem de Programação II <br>
                 Professor : Guilherme Feulo do Espirito Santo <br>
                 Sala : A310
             </td>
-            <td><b>Horário :</b> [19h às 19h50]<br>
+            <td><b>Horário :</b> [19h às 22h40]<br>
                 <b>Disciplina :</b> Ambiente de Desenvolvimento e Operação <br>
-                Professor : Alex lopes de Oliveira <br>
+                Professor : Alex Lopes de Oliveira <br>
                 Sala : A309
             </td>          
         </tr>
